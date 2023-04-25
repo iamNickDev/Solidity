@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/nandkishoregeete/Desktop/Projects/01_Sample_contract/contracts/Person.sol": {
+      "lastModificationDate": 1682421834661,
+      "contentHash": "7f860206f1a47fdd9cfa3320c8be50b0",
+      "sourceName": "contracts/Person.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.14"
+      ],
+      "artifacts": [
+        "person"
+      ]
+    },
+    "/Users/nandkishoregeete/Desktop/Projects/01_Sample_contract/contracts/AddressBook.sol": {
+      "lastModificationDate": 1682450749724,
+      "contentHash": "5eb295dcfd8a7fc102fe7aa04bbf1f70",
+      "sourceName": "contracts/AddressBook.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.14"
+      ],
+      "artifacts": [
+        "addressBook"
+      ]
+    }
+  }
+}
