@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: MIT
 //
-// https://cryptomarketpool.com/hotel-contract
 
 pragma solidity ^0.8.18;
 
